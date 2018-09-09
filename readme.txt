@@ -5,3 +5,5 @@ Git tracks changes of
 Creating a new branch is quick and simple
 on dev
 on master
+on stash for commit
+on stash for stage
